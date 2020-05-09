@@ -2,9 +2,9 @@
   "name": "folder-structure",
   "version": "1.0.0",
   "description": "A barebones Node.js app using [Express 4](http://expressjs.com/).",
-  "main": "src/index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
